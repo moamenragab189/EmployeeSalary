@@ -1,7 +1,12 @@
-This project is a simple **WPF desktop application** built with C#.  
-It reads employee data from a **JSON file**, performs calculations, and displays the results in a **table (DataGrid)**.
+This project is a WPF application in C# that shows Object-Oriented Programming (OOP) principles.
+It reads employee data from a JSON file, applies processing and calculations, and displays the results in a DataGrid.
 
- Load employee data from a JSON file
-- Display data in a WPF DataGrid
-- Perform calculations (e.g., total employees, average salary, department statistics)
-- Search and filter employees 
+🚀 Features
+
+Load employee data from a JSON file
+
+Display employees in a WPF DataGrid
+
+Perform calculations (e.g., average salary, department counts, highest/lowest salary)
+
+Clean OOP design 
